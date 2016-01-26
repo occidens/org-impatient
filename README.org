@@ -1,2 +1,4 @@
-# org-impatient
+#+TITLE: org-impatient
+#+STARTUP: indent
+
 An asynchronous Org Mode filter for Impatient Mode
